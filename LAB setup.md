@@ -2,6 +2,8 @@
 
 This is a documentation of the Active Directory HomeLab hosted on Virtual Machines. The documentation covers the deployement of the AD and the connected Windows Endpoint and creation of shares and usage of Group policy (GPO) to implement policies.
 
+**If you havent checked a brief overview of the lab checkout the Medium article - https://medium.com/@jogdand.aaryan/how-i-built-my-active-directory-homelab-a239e41a3fae.**  
+
 ## **Technical requierments**
 System-  Storage ~ 40-50 GB | 16GB /32GB RAM (preferred) Host System  
 ISO files- Windows Server 22/2025 .iso | Windows 10/11 .iso  
@@ -94,8 +96,9 @@ On the Workstation you can connect to the domain with entering the user or admin
 
 ## **To divide the lab in different sections, the creation of users and groups is documented on a different page linked below**
 
-**Creating Users and OU's in AD - https://github.com/aaryangit/AD-Homelab/blob/main/CreatingUsers.md**
-
+**Creating Users and OU's in AD - https://github.com/aaryangit/AD-Homelab/blob/main/CreatingUsers.md.**    
+**Creating Shares in AD - https://github.com/aaryangit/AD-Homelab/blob/main/CreatingShares.md.**    
+**Creating and Using GPO's - https://github.com/aaryangit/AD-Homelab/blob/main/UsingGPO's.md.**  
 
 
 
