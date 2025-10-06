@@ -32,6 +32,21 @@ For the sake of this lab and implement groups and policies further and just as a
 
 We can transfer these users to the OU's we create by just drag-n-dropping them to the selected OU.  
 
+The Following OU's were created for testing.  
+
+<img width="256" height="369" alt="image" src="https://github.com/user-attachments/assets/3ea09b3a-a0b0-4a01-a223-8c243213822b" />  
+
+In the OU "Engineering" After right clicking in the OU you can create groups as well as I created a group calledd EngineeringShare, which we'll use further in the creating shares and use GPO's on.
+
+<img width="467" height="396" alt="image" src="https://github.com/user-attachments/assets/40ac31ae-210c-48f8-b42d-a5cabaa5a844" />  
+
+And these two users were added in the group.  
+
+<img width="871" height="564" alt="image" src="https://github.com/user-attachments/assets/b88e92ba-06ad-4ab5-b85b-cb0b4aa1c3ea" />  
+
+
+
+
 
 **Thats how we can create Users and Organizational Units in Active Directory**
 
