@@ -92,7 +92,11 @@ The IP configuration of the Workstation.
 On the Workstation you can connect to the domain with entering the user or admin credentials. 
 
 
-**To divide the lab in different sections, the creation of users and groups is documented on a different page linked below**
+## **To divide the lab in different sections, the creation of users and groups is documented on a different page linked below**
+
+**Creating Users and OU's in AD - https://github.com/aaryangit/AD-Homelab/blob/main/CreatingUsers.md**
+
+
 
 
 ## **Key learnings**
